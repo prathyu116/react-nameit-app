@@ -1,0 +1,25 @@
+.named-container{
+    color: #e7e9f0;
+    background-color: #282d4f;
+    margin: 10px 15px;
+    min-width: 105px;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.1);
+    transition: background 0.55s;
+    cursor: pointer;
+}
+.named-container:hover{
+    background: #485079;
+    box-shadow: 0 0 5px rgba(29, 22, 22, 0.3);
+
+
+}
+.result-name{
+    margin: 0;
+    font-weight: 90;
+}

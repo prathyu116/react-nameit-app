@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/react-nameit-app/static/css/main.e49412a2.chunk.css",
+    "main.js": "/github.io/react-nameit-app/static/js/main.e63d3606.chunk.js",
+    "main.js.map": "/github.io/react-nameit-app/static/js/main.e63d3606.chunk.js.map",
+    "runtime-main.js": "/github.io/react-nameit-app/static/js/runtime-main.154fdc09.js",
+    "runtime-main.js.map": "/github.io/react-nameit-app/static/js/runtime-main.154fdc09.js.map",
+    "static/js/2.b5fece16.chunk.js": "/github.io/react-nameit-app/static/js/2.b5fece16.chunk.js",
+    "static/js/2.b5fece16.chunk.js.map": "/github.io/react-nameit-app/static/js/2.b5fece16.chunk.js.map",
+    "index.html": "/github.io/react-nameit-app/index.html",
+    "precache-manifest.1a222126d5a42640474e453ba8744313.js": "/github.io/react-nameit-app/precache-manifest.1a222126d5a42640474e453ba8744313.js",
+    "service-worker.js": "/github.io/react-nameit-app/service-worker.js",
+    "static/css/main.e49412a2.chunk.css.map": "/github.io/react-nameit-app/static/css/main.e49412a2.chunk.css.map",
+    "static/js/2.b5fece16.chunk.js.LICENSE.txt": "/github.io/react-nameit-app/static/js/2.b5fece16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.154fdc09.js",
+    "static/js/2.b5fece16.chunk.js",
+    "static/css/main.e49412a2.chunk.css",
+    "static/js/main.e63d3606.chunk.js"
+  ]
+}

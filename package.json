@@ -2,7 +2,7 @@
   "name": "todoapp1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://prathyu116/github.io/react-nameit-app",
+  "homepage": "https://prathyu116/github.io/react-nameit-app/",
   "dependencies": {
     "@rstacruz/startup-name-generator": "^0.3.0",
     "cra-template": "1.0.3",

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/react-nameit-app/static/css/main.e49412a2.chunk.css",
-    "main.js": "/github.io/react-nameit-app/static/js/main.f16458c2.chunk.js",
-    "main.js.map": "/github.io/react-nameit-app/static/js/main.f16458c2.chunk.js.map",
-    "runtime-main.js": "/github.io/react-nameit-app/static/js/runtime-main.154fdc09.js",
-    "runtime-main.js.map": "/github.io/react-nameit-app/static/js/runtime-main.154fdc09.js.map",
-    "static/js/2.9c01719b.chunk.js": "/github.io/react-nameit-app/static/js/2.9c01719b.chunk.js",
-    "static/js/2.9c01719b.chunk.js.map": "/github.io/react-nameit-app/static/js/2.9c01719b.chunk.js.map",
-    "index.html": "/github.io/react-nameit-app/index.html",
-    "precache-manifest.4afee841b0f8a18182952251fc8efe5f.js": "/github.io/react-nameit-app/precache-manifest.4afee841b0f8a18182952251fc8efe5f.js",
-    "service-worker.js": "/github.io/react-nameit-app/service-worker.js",
-    "static/css/main.e49412a2.chunk.css.map": "/github.io/react-nameit-app/static/css/main.e49412a2.chunk.css.map",
-    "static/js/2.9c01719b.chunk.js.LICENSE.txt": "/github.io/react-nameit-app/static/js/2.9c01719b.chunk.js.LICENSE.txt"
+    "main.css": "/react-nameit-app/static/css/main.e49412a2.chunk.css",
+    "main.js": "/react-nameit-app/static/js/main.242c9a65.chunk.js",
+    "main.js.map": "/react-nameit-app/static/js/main.242c9a65.chunk.js.map",
+    "runtime-main.js": "/react-nameit-app/static/js/runtime-main.a71e484a.js",
+    "runtime-main.js.map": "/react-nameit-app/static/js/runtime-main.a71e484a.js.map",
+    "static/js/2.86cfb8be.chunk.js": "/react-nameit-app/static/js/2.86cfb8be.chunk.js",
+    "static/js/2.86cfb8be.chunk.js.map": "/react-nameit-app/static/js/2.86cfb8be.chunk.js.map",
+    "index.html": "/react-nameit-app/index.html",
+    "precache-manifest.9c106b9ea35610f10604ed704f3c995e.js": "/react-nameit-app/precache-manifest.9c106b9ea35610f10604ed704f3c995e.js",
+    "service-worker.js": "/react-nameit-app/service-worker.js",
+    "static/css/main.e49412a2.chunk.css.map": "/react-nameit-app/static/css/main.e49412a2.chunk.css.map",
+    "static/js/2.86cfb8be.chunk.js.LICENSE.txt": "/react-nameit-app/static/js/2.86cfb8be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.154fdc09.js",
-    "static/js/2.9c01719b.chunk.js",
+    "static/js/runtime-main.a71e484a.js",
+    "static/js/2.86cfb8be.chunk.js",
     "static/css/main.e49412a2.chunk.css",
-    "static/js/main.f16458c2.chunk.js"
+    "static/js/main.242c9a65.chunk.js"
   ]
 }
